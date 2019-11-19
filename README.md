@@ -7,4 +7,3 @@ Por hacer:
 - Subir apuntes práctica 1 en Markdown
 - Subir apuntes práctica 2 en Markdown
 - Subir apuntes práctica 3 en Markdown
-- Subir documentación Zabbix (práctica 3)
